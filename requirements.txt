@@ -1,0 +1,7 @@
+Flask==2.2.0
+protobuf==3.20.0
+python-json-logger==2.0.4
+opentelemetry-exporter-otlp
+opentelemetry-instrumentation-flask
+opentelemetry-sdk
+opentelemetry-api
